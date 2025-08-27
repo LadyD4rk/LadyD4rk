@@ -39,6 +39,10 @@
 
 ###
 
-<br clear="both">
+<h2 align="center">🐍 Snake Game</h2>
 
-<img src="https://raw.githubusercontent.com/LadyD4rk/LadyD4rk/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LadyD4rk/LadyD4rk/main/snake.svg" alt="Snake animation" height="120" />
+</div>
