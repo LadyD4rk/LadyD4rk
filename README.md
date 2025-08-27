@@ -26,15 +26,15 @@
 
 ###
 
-<h2 align="center">🌒🎵 Currently Listening 🎵🌑</h2>
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/track/2Qv7q9DrsF3Fh5rC6AewCc" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733b6c4f8d6c4e5e2a1b2f3c4d" alt="Vienna – Billy Joel" height="80" />
-  </a>
-  <p>🎵 <b>Vienna – Billy Joel</b></p>
-</div>
+  <p align="center" style="max-width: 500px; font-style: italic;">
+    "Slow down, you crazy child<br>
+    You're so ambitious for a juvenile<br>
+    But then if you're so smart<br>
+    Tell me why are you still so afraid?"
+  </p>
 
-###
+  <a href="https://open.spotify.com/track/2Qv7q9DrsF3Fh5rC6AewCc" target="_blank">
+    🎵 Listen on Spotify
+  </a>
+</div>
