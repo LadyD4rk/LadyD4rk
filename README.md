@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My name is Joana Melissa, a 42 School student exploring the mysteries of programming.</h4>
+<img src="https://raw.githubusercontent.com/LadyD4rk/LadyD4rk/main/42student.svg" alt="42 Student" height="40"/>
 
 ###
 
