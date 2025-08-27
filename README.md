@@ -2,15 +2,23 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LadyD4rk/LadyD4rk/main/42student.svg" alt="42 Student" height="40"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LadyD4rk/LadyD4rk/main/42student.svg" alt="42 Student" height="40"/>
+</div>
 
 ###
 
 <h2 align="left">🌒 About me</h2>
 
 ###
-
-<p align="left">✨ Making bugs since early 2025<br>📚 Student at 42 School, still exploring the vast universe of code<br>🎲 Fun fact: I'm basically a thinking Spotify<br>🎧 Book lover & music addict<br>🌑 Slightly mysterious, always curious</p>
+<p align="left">
+👤 My name is Joana Melissa<br>
+🌌 ✨ Making bugs since early 2025<br>
+📚 Student at 42 School, still exploring the vast universe of code<br>
+🎲 Fun fact: I'm basically a thinking Spotify<br>
+🎧 Book lover & music addict<br>
+🌑 Slightly mysterious, always curious
+</p>
 
 ###
 
