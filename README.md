@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">My name is Joana Melissa, a 42 School student exploring the mysteries of programming.</h4>
+<h3 align="center">My name is Joana Melissa, a 42 School student exploring the mysteries of programming.</h4>
 
 ###
 
